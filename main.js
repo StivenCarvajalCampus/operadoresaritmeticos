@@ -1,5 +1,4 @@
-//Módulo (%): se utiliza para obtener el resto de una división.
-let x = 30;
-let y = 3;
-let z = x % y;
-console.log(z); // Output: 0
+//Incremento (++): se utiliza para incrementar en 1 el valor de una variable.
+let x = 31;
+x++;
+console.log(x); // Output: 32
