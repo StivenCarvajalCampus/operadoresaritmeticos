@@ -1,4 +1,4 @@
-//Decremento (--): se utiliza para decrementar en 1 el valor de una variable.
-let x = 33;
-x--;
-console.log(x); // Output: 32
+//estos operadores pueden utilizarse en combinación con asignación
+let x = 10;
+x += 5; // es lo mismo que x = x + 5;
+console.log(x); // Output: 15
